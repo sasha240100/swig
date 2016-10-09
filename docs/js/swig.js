@@ -1,1 +1,1 @@
-../../dist/swig.js
+../../bin/swig.js
